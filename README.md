@@ -1,22 +1,18 @@
-# ¡Hola! Soy Hernán 👋
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
+  
 
-Soy un apasionado por el análisis de datos y la tecnología. Actualmente, estoy finalizando una **Licenciatura en Administración de Empresas** y un **Bootcamp de Data Analytics** en Soy Henry.
+### <div align="center">Hola 🙋‍♂️ soy Hernán</div>  
+  
 
-## 🚀 Habilidades
-- **Python**: Desarrollo de scripts, análisis de datos, automatización de procesos.
-- **SQL**: Consultas avanzadas, gestión de bases de datos.
-- **Power BI & Looker Studio**: Creación de dashboards interactivos.
-- **Excel**: Modelado financiero, análisis de datos.
-- **Data Analytics**: Procesamiento y visualización de grandes volúmenes de datos.
-- **Business Analytics**: Análisis estratégico y optimización de procesos empresariales.
+- 🔭 Actualmente me encuentro realizando un proyecto final de graduación en Soy Henry, de la carrera de Data Analytics  
+  
 
-## 🔧 Proyectos Destacados
-### [Nombre del Proyecto 1](URL del Repositorio)
-Breve descripción del proyecto. Tecnologías utilizadas: Python, SQL, Power BI.
+- 📕 Estoy trabajando en una tesis sobre estilos de liderazgos y clima organizacional para graduarme de Licenciado en Administración de Empresas en la UTN Buesnos Aires.  
+  
 
-### [Nombre del Proyecto 2](URL del Repositorio)
-Breve descripción del proyecto. Tecnologías utilizadas: Looker Studio, Excel, Python.
+- 📕 Soy Técnico Universitario en Administración y Tecnico Universitario en Higiene y Seguridad en el Trabajo  
+  
 
-## 📫 Cómo contactarme
-- **Email**: hernan2014@hotmail.com
-- **LinkedIn**: https://www.linkedin.com/in/hernanpared/ 
+- ⚡ Me apasiona la tecnología, por esa razón he realizado varios cursos y capacitaciones relacionadas a desarrollo web, SEO, Marketing Digital, Desarrollo Fulls Stack, entre otros.  

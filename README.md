@@ -18,5 +18,5 @@ Breve descripción del proyecto. Tecnologías utilizadas: Python, SQL, Power BI.
 Breve descripción del proyecto. Tecnologías utilizadas: Looker Studio, Excel, Python.
 
 ## 📫 Cómo contactarme
-- **Email**: [Tu Email]
-- **LinkedIn**: [Tu LinkedIn]
+- **Email**: hernan2014@hotmail.com
+- **LinkedIn**: https://www.linkedin.com/in/hernanpared/ 

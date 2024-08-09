@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://png.pngtree.com/thumb_back/fh260/background/20230611/pngtree-screenshotsaturday-image_2937739.jpg" align="center" style="width: 100%" />
 </div>  
   
 
@@ -15,4 +15,6 @@
 - 📕 Soy Técnico Universitario en Administración y Tecnico Universitario en Higiene y Seguridad en el Trabajo  
   
 
-- ⚡ Me apasiona la tecnología, por esa razón he realizado varios cursos y capacitaciones relacionadas a desarrollo web, SEO, Marketing Digital, Desarrollo Fulls Stack, entre otros.  
+- ⚡ Me apasiona la tecnología, por esa razón he realizado varios cursos y capacitaciones relacionadas a Desarrollo Web, SEO, Marketing Digital, Desarrollo Fulls Stack, entre otros.
+
+- 

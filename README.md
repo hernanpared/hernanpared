@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋
 
-<!--
-**hernanpared/hernanpared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner de [Tu Nombre]](URL_DE_LA_IMAGEN)
 
-Here are some ideas to get you started:
+Soy un apasionado por el análisis de datos y la tecnología, con experiencia en **Python**, **SQL**, **Power BI**, **Looker Studio** y **Excel**. Actualmente, estoy finalizando una **Licenciatura en Administración de Empresas** y un **Bootcamp de Data Analytics** en Soy Henry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades
+- **Python**: Desarrollo de scripts, análisis de datos, automatización de procesos.
+- **SQL**: Consultas avanzadas, gestión de bases de datos.
+- **Power BI & Looker Studio**: Creación de dashboards interactivos.
+- **Excel**: Modelado financiero, análisis de datos.
+- **Data Analytics**: Procesamiento y visualización de grandes volúmenes de datos.
+- **Business Analytics**: Análisis estratégico y optimización de procesos empresariales.
+
+## 🔧 Proyectos Destacados
+### [Nombre del Proyecto 1](URL del Repositorio)
+Breve descripción del proyecto. Tecnologías utilizadas: Python, SQL, Power BI.
+
+### [Nombre del Proyecto 2](URL del Repositorio)
+Breve descripción del proyecto. Tecnologías utilizadas: Looker Studio, Excel, Python.
+
+## 📫 Cómo contactarme
+- **Email**: [Tu Email]
+- **LinkedIn**: [Tu LinkedIn]
+

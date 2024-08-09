@@ -1,25 +1,50 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
-![Banner de [Tu Nombre]](URL_DE_LA_IMAGEN)
+# Folder config file
+Desktop.ini
 
-Soy un apasionado por el análisis de datos y la tecnología, con experiencia en **Python**, **SQL**, **Power BI**, **Looker Studio** y **Excel**. Actualmente, estoy finalizando una **Licenciatura en Administración de Empresas** y un **Bootcamp de Data Analytics** en Soy Henry.
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
 
-## 🚀 Habilidades
-- **Python**: Desarrollo de scripts, análisis de datos, automatización de procesos.
-- **SQL**: Consultas avanzadas, gestión de bases de datos.
-- **Power BI & Looker Studio**: Creación de dashboards interactivos.
-- **Excel**: Modelado financiero, análisis de datos.
-- **Data Analytics**: Procesamiento y visualización de grandes volúmenes de datos.
-- **Business Analytics**: Análisis estratégico y optimización de procesos empresariales.
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
 
-## 🔧 Proyectos Destacados
-### [Nombre del Proyecto 1](URL del Repositorio)
-Breve descripción del proyecto. Tecnologías utilizadas: Python, SQL, Power BI.
+# Windows shortcuts
+*.lnk
 
-### [Nombre del Proyecto 2](URL del Repositorio)
-Breve descripción del proyecto. Tecnologías utilizadas: Looker Studio, Excel, Python.
+# =========================
+# Operating System Files
+# =========================
 
-## 📫 Cómo contactarme
-- **Email**: [Tu Email]
-- **LinkedIn**: [Tu LinkedIn]
+# OSX
+# =========================
 
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+.idea
+/.vs

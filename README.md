@@ -1,6 +1,6 @@
 # ¡Hola! Soy Hernán 👋
 
-Soy un apasionado por el análisis de datos y la tecnología, con experiencia en **Python**, **SQL**, **Power BI**, **Looker Studio** y **Excel**. Actualmente, estoy finalizando una **Licenciatura en Administración de Empresas** y un **Bootcamp de Data Analytics** en Soy Henry.
+Soy un apasionado por el análisis de datos y la tecnología. Actualmente, estoy finalizando una **Licenciatura en Administración de Empresas** y un **Bootcamp de Data Analytics** en Soy Henry.
 
 ## 🚀 Habilidades
 - **Python**: Desarrollo de scripts, análisis de datos, automatización de procesos.

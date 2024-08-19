@@ -18,6 +18,7 @@
 ⭕Actualmente me encuentro trabajando dentro del sector turistico. 
 
 📞💻 *CONTACTO*
+
 ⭕[Correo Electronico](hernan2014@hotmail.com) 
 ⭕[Linkedin](https://www.linkedin.com/in/hernanpared/)
 

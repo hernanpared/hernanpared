@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://png.pngtree.com/thumb_back/fh260/background/20230611/pngtree-screenshotsaturday-image_2937739.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Factions.es%2Fanalisis-de-datos-herramientas-que-debes-conocer%2F&psig=AOvVaw1QFkB1YwIlVUk31PliqiQS&ust=1724130188808000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDp1dCjgIgDFQAAAAAdAAAAABAh)" align="center" style="width: 50%" />
+<img src='https://actions.es/wp-content/uploads/2020/02/AdobeStock_278427509-1.jpg' align="center" style="width: 50%" />
 </div>  
   
 ### <div align="center">Hola 🙋‍♂️ soy Hernán</div>  

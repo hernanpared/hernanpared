@@ -20,6 +20,7 @@
 📞💻 *CONTACTO*
 
 ⭕[Correo Electronico](hernan2014@hotmail.com) 
+
 ⭕[Linkedin](https://www.linkedin.com/in/hernanpared/)
 
 

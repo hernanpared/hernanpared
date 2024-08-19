@@ -4,24 +4,18 @@
   
 ### <div align="center">Hola 🙋‍♂️ soy Hernán</div>  
   
+📕📕*FORMACIOÓN ACADEMICA*
 
-- 🔭 Actualmente me encuentro realizando un Proyecto Final de Graduación en Soy Henry, de la carrera de Data Analytics  
-
-
-- 📕 Estoy trabajando en una tesis sobre **estilos de liderazgos y clima organizacional** para graduarme de Licenciado en Administración de Empresas en la Universidad Tecnologica de  Buesnos Aires.  
-  
-
-- 📕 Soy Técnico Universitario en Administración y Tecnico Universitario en Higiene y Seguridad en el Trabajo, en ambos casos graduado de la Universidad Tecnologica Buenos Aires.
-  
-
-- ⚡ Me apasiona la tecnología, por esa razón he realizado varios cursos y capacitaciones relacionadas a Sesarrollo Web, SEO, Marketing Digital, Desarrollo Fulls Stack, entre otros.  
-  
+⭕Actualmente me encuentro realizando un Proyecto Final de Graduación en Soy Henry, de la carrera de Data Analytics  
+⭕Estoy trabajando en una tesis sobre **estilos de liderazgos y clima organizacional** para graduarme de Licenciado en Administración de Empresas en la Universidad Tecnologica de  Buesnos Aires.  
+⭕Soy Técnico Universitario en Administración y Tecnico Universitario en Higiene y Seguridad en el Trabajo, en ambos casos graduado de la Universidad Tecnologica Buenos Aires.
 
 <br/>  
 
-👨🔨 Experiencia Laboral
+👨🔨 *EXPERIENCIA LABORAL*
 
-👉 Me desdempeñe durante 17 años como Responsable de Turno en YPF, en el sector de estaciones de servicios de la Red Propia.
+⭕Me desdempeñe durante 17 años como Responsable de Turno en YPF, en el sector de estaciones de servicios de la Red Propia.
+⭕Actualmente me encuentro trabajando dentro del sector turistico. 
 
 
 ## My Skill Set  

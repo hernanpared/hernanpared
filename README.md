@@ -17,6 +17,11 @@
 ⭕Me desdempeñe durante 17 años como Responsable de Turno en YPF, en el sector de estaciones de servicios de la Red Propia.
 ⭕Actualmente me encuentro trabajando dentro del sector turistico. 
 
+📞💻 *CONTACTO*
+⭕[Correo Electronico](hernan2014@hotmail.com) 
+⭕[Linkedin](https://www.linkedin.com/in/hernanpared/)
+
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">

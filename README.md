@@ -1,5 +1,5 @@
 <div align="center">
-<img src='https://actions.es/wp-content/uploads/2020/02/AdobeStock_278427509-1.jpg' align="center" style="width: 50%" />
+<img src='https://actions.es/wp-content/uploads/2020/02/AdobeStock_278427509-1.jpg' align="center" style="width: 100%" />
 </div>  
   
 ### <div align="center">Hola 🙋‍♂️ soy Hernán</div>  

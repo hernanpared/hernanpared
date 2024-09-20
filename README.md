@@ -2,20 +2,14 @@
 <img src='https://actions.es/wp-content/uploads/2020/02/AdobeStock_278427509-1.jpg' align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">Hola 🙋‍♂️ soy Hernán</div>  
-  
-📕📕*FORMACIOÓN ACADEMICA*
+# 👋 ¡Hola!
 
-⭕Actualmente me encuentro realizando un Proyecto Final de Graduación en Soy Henry, de la carrera de Data Analytics  
-⭕Estoy trabajando en una tesis sobre **estilos de liderazgos y clima organizacional** para graduarme de Licenciado en Administración de Empresas en la Universidad Tecnologica de  Buesnos Aires.  
-⭕Soy Técnico Universitario en Administración y Tecnico Universitario en Higiene y Seguridad en el Trabajo, en ambos casos graduado de la Universidad Tecnologica Buenos Aires.
+Soy **Hernan**, Analista de Datos con formación en **Administración** y en **Higiene y Seguridad en el Trabajo**, lo que me brinda una visión integral para aplicar el análisis de datos en diversas áreas. Además, he ampliado mis habilidades digitales con estudios en **desarrollo web** y **SEO**. 📚
 
-<br/>  
+💻 Manejo **SQL**, **Python** y herramientas clave como **Power BI**, **Excel** y **Looker Studio** para transformar datos en información valiosa. He participado en proyectos donde la visualización y el análisis de datos fueron fundamentales para obtener mejores resultados.
 
-👨🔨 *EXPERIENCIA LABORAL*
+🎯 Busco crecer profesionalmente como Analista de Datos en cualquier industria, aplicando mis conocimientos, adquiriendo nuevas experiencias y continuando mi formación en este apasionante campo. Si buscas a alguien comprometido, proactivo y con ganas de aprender, **¡contáctame!** 🚀
 
-⭕Me desdempeñe durante 17 años como Responsable de Turno en YPF, en el sector de estaciones de servicios de la Red Propia.
-⭕Actualmente me encuentro trabajando dentro del sector turistico. 
 
 📞💻 *CONTACTO*
 

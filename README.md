@@ -4,9 +4,7 @@
   
 # 👋 ¡Hola!
 
-Soy **Hernan**, Analista de Datos con formación en **Administración** y en **Higiene y Seguridad en el Trabajo**, lo que me brinda una visión integral para aplicar el análisis de datos en diversas áreas. Además, he ampliado mis habilidades digitales con estudios en **desarrollo web** y **SEO**. 📚
-
-💻 Manejo **SQL**, **Python** y herramientas clave como **Power BI**, **Excel** y **Looker Studio** para transformar datos en información valiosa. He participado en proyectos donde la visualización y el análisis de datos fueron fundamentales para obtener mejores resultados.
+Soy **Hernan**, Licenciado en Administracion de Empresas, egresado de la UTN Buenos Aires, me especializo en Analisis de Datos y actualemnte estoy cursado la Tecnicatura Universitaria en Programacion en la UTN San Nicolas. Tengo habilidades en el manejo de: **SQL**, **Python** y herramientas clave como **Power BI**, **Excel** y **Looker Studio** para transformar datos en información valiosa. He participado en proyectos donde la visualización y el análisis de datos fueron fundamentales para obtener mejores resultados.
 
 🎯 Busco crecer profesionalmente como Analista de Datos en cualquier industria, aplicando mis conocimientos, adquiriendo nuevas experiencias y continuando mi formación en este apasionante campo. Si buscas a alguien comprometido, proactivo y con ganas de aprender, **¡contáctame!** 🚀
 
